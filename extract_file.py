@@ -1,7 +1,7 @@
 import pyshark
 import os
 
-# Path to your pcap file
+
 pcap_path = 'sample.pcap'
 output_dir = 'extracted_files'
 
